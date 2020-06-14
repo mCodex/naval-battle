@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/naval-battle/static/js/main.21b620c8.chunk.js",
-    "main.js.map": "/naval-battle/static/js/main.21b620c8.chunk.js.map",
+    "main.js": "/naval-battle/static/js/main.1fa71e9c.chunk.js",
+    "main.js.map": "/naval-battle/static/js/main.1fa71e9c.chunk.js.map",
     "runtime-main.js": "/naval-battle/static/js/runtime-main.7d2a24aa.js",
     "runtime-main.js.map": "/naval-battle/static/js/runtime-main.7d2a24aa.js.map",
     "static/js/2.ea7808c3.chunk.js": "/naval-battle/static/js/2.ea7808c3.chunk.js",
     "static/js/2.ea7808c3.chunk.js.map": "/naval-battle/static/js/2.ea7808c3.chunk.js.map",
     "index.html": "/naval-battle/index.html",
-    "precache-manifest.cdbb8d68c64cfca7d3dda3c6d1070357.js": "/naval-battle/precache-manifest.cdbb8d68c64cfca7d3dda3c6d1070357.js",
+    "precache-manifest.2610ff742ff3e7aa3fd890b9bf8858ac.js": "/naval-battle/precache-manifest.2610ff742ff3e7aa3fd890b9bf8858ac.js",
     "service-worker.js": "/naval-battle/service-worker.js",
     "static/js/2.ea7808c3.chunk.js.LICENSE.txt": "/naval-battle/static/js/2.ea7808c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7d2a24aa.js",
     "static/js/2.ea7808c3.chunk.js",
-    "static/js/main.21b620c8.chunk.js"
+    "static/js/main.1fa71e9c.chunk.js"
   ]
 }
