@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a59669aee10ab630d0eaabf560ce7680",
+    "revision": "3570336385de20b9f53be752e456de18",
     "url": "/naval-battle/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/naval-battle/static/js/2.ea7808c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88f16b6a3aed2784b6c2",
-    "url": "/naval-battle/static/js/main.1fa71e9c.chunk.js"
+    "revision": "f1c72536825986d0356f",
+    "url": "/naval-battle/static/js/main.e88bfdc8.chunk.js"
   },
   {
     "revision": "984bd14426f0f5acb808",
