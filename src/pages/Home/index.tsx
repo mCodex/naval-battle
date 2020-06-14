@@ -37,9 +37,11 @@ const Home: React.FC = () => {
   const checkIfSquareIsEmpty = useCallback(
     (row, col) => {
       const position = Number(`${row}${col}`);
-      return clickedCells.includes(position);
+      return (
+        clickedCells.includes(position) && !shipsPositions.includes(position)
+      );
     },
-    [clickedCells],
+    [shipsPositions, clickedCells],
   );
 
   const handleBoardCellOnClick = useCallback(
