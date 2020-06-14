@@ -1,4 +1,4 @@
-export default (shipSize: number, startPos: number) => {
+export default (shipSize: number, startPos: number): Array<number> => {
   /**
    * The range of each row is from 1 to 10
    */
@@ -27,20 +27,19 @@ export default (shipSize: number, startPos: number) => {
   const selectedPosition =
     availablePositions[Math.floor(Math.random() * availablePositions.length)];
 
+  /**
+   * Generate ship position
+   */
   switch (selectedPosition) {
     case 'LEFT':
       return new Array(shipSize).fill('').map((_, i) => startPos - i);
     case 'RIGHT':
       return new Array(shipSize).fill('').map((_, i) => startPos + i);
     case 'UP':
-      return new Array(shipSize)
-        .fill('')
-        .map((_, i) => startPos - i * shipSize);
+      return new Array(shipSize).fill('').map((_, i) => startPos - i * 10);
     case 'DOWN':
-      return new Array(shipSize)
-        .fill('')
-        .map((_, i) => startPos + i * shipSize);
+      return new Array(shipSize).fill('').map((_, i) => startPos + i * 10);
     default:
-      break;
+      return [];
   }
 };

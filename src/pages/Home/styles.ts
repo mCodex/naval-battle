@@ -1,14 +1,13 @@
 import styled, { css } from 'styled-components';
 
 interface SquareProps {
-  isAShipPosition: () => boolean;
+  isAShipPosition: boolean;
+  isEmpty: boolean;
 }
 
 export const MainContainer = styled.main`
   display: flex;
 `;
-
-export const LeftContainer = styled.div``;
 
 export const Board = styled.table``;
 
@@ -23,4 +22,25 @@ export const Square = styled.div<SquareProps>`
     css`
       background-color: red;
     `};
+
+  ${(props) =>
+    props.isEmpty &&
+    css`
+      background-color: blue;
+    `};
+`;
+
+export const UserMovesContainer = styled.div`
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50%;
+  background-color: olive;
+  text-align: center;
+
+  p {
+    font-weight: 300;
+  }
 `;

@@ -13,7 +13,7 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialised;
   }
   body, input, button {
-    font: 16px 'Roboto Slab', serif;
+    font: 16px 'Montserrat', sans-serif;
   }
   #root {
     margin: 0 auto;
