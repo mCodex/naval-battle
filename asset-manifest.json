@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/naval-battle/static/js/main.46bac47d.chunk.js",
-    "main.js.map": "/naval-battle/static/js/main.46bac47d.chunk.js.map",
+    "main.js": "/naval-battle/static/js/main.23485118.chunk.js",
+    "main.js.map": "/naval-battle/static/js/main.23485118.chunk.js.map",
     "runtime-main.js": "/naval-battle/static/js/runtime-main.4094802e.js",
     "runtime-main.js.map": "/naval-battle/static/js/runtime-main.4094802e.js.map",
-    "static/js/2.63cdd58c.chunk.js": "/naval-battle/static/js/2.63cdd58c.chunk.js",
-    "static/js/2.63cdd58c.chunk.js.map": "/naval-battle/static/js/2.63cdd58c.chunk.js.map",
+    "static/js/2.6aa4f9c6.chunk.js": "/naval-battle/static/js/2.6aa4f9c6.chunk.js",
+    "static/js/2.6aa4f9c6.chunk.js.map": "/naval-battle/static/js/2.6aa4f9c6.chunk.js.map",
     "index.html": "/naval-battle/index.html",
-    "precache-manifest.2fd708f1ceb5e11a582045b010857ca4.js": "/naval-battle/precache-manifest.2fd708f1ceb5e11a582045b010857ca4.js",
+    "precache-manifest.af3cdd483894503e1d174fb96d4a879b.js": "/naval-battle/precache-manifest.af3cdd483894503e1d174fb96d4a879b.js",
     "service-worker.js": "/naval-battle/service-worker.js",
-    "static/js/2.63cdd58c.chunk.js.LICENSE.txt": "/naval-battle/static/js/2.63cdd58c.chunk.js.LICENSE.txt"
+    "static/js/2.6aa4f9c6.chunk.js.LICENSE.txt": "/naval-battle/static/js/2.6aa4f9c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4094802e.js",
-    "static/js/2.63cdd58c.chunk.js",
-    "static/js/main.46bac47d.chunk.js"
+    "static/js/2.6aa4f9c6.chunk.js",
+    "static/js/main.23485118.chunk.js"
   ]
 }

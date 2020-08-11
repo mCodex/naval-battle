@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/naval-battle/precache-manifest.2fd708f1ceb5e11a582045b010857ca4.js"
+  "/naval-battle/precache-manifest.af3cdd483894503e1d174fb96d4a879b.js"
 );
 
 self.addEventListener('message', (event) => {
