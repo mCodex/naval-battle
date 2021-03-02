@@ -16,7 +16,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.0",
     "styled-components": "^5.1.1",
-    "typescript": "^3.9.6",
+    "typescript": "^3.9.8",
     "uuidv4": "^6.1.1",
     "snyk": "^1.437.2"
   },
